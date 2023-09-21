@@ -9,7 +9,7 @@ enableRobotsTXT = true
 # ブログのタイトル
 title = "備忘録"
 
-theme = "mainroad"
+theme = "PaperMod"
 paginate = 20
 
 # 自己紹介
