@@ -1,5 +1,5 @@
 # 公開するページのURL
-baseURL = "https://kat0h.github.io/hugo-blog-template"
+baseURL = "https://mrsmsn.github.io/hugo-blog"
 
 languageCode = "ja"
 DefaultContentLanguage = "ja"
@@ -7,7 +7,7 @@ HasCJKLanguage = true
 enableRobotsTXT = true
 
 # ブログのタイトル
-title = "hugo-blog-template"
+title = "備忘録"
 
 theme = "mainroad"
 paginate = 20
@@ -15,7 +15,7 @@ paginate = 20
 # 自己紹介
 [Author]
     name = "Author"
-    bio = "ここに自己紹介を入れることができます"
+    bio = "技術に弱いエンジニア"
     avatar = "img/avatar.png"
 
 [Params]
@@ -32,8 +32,8 @@ paginate = 20
 
 # SNS等のユーザー名
 [Params.widgets.social]
-  twitter = "uvrub"
-  github = "kato-k"
+  twitter = "mrsmsn43"
+  github = "mrsmsn"
 
 [Params.sidebar]
     home = "right"
