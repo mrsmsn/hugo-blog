@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://mrsmsn.github.io/hugo-blogsitemap.xml
