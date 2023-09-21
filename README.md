@@ -1,4 +1,7 @@
 # 個人的なブログ
+https://mrsmsn.github.io/hugo-blog/
+
+上記のリンクに雑記を公開する
 
 ## 内容
 ### 書くこと
