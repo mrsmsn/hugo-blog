@@ -1,1 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>備忘録</title><link>https://mrsmsn.github.io/hugo-blog/</link><description>Recent content on 備忘録</description><generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://mrsmsn.github.io/hugo-blog/index.xml" rel="self" type="application/rss+xml"/><item><title>Sample Page</title><link>https://mrsmsn.github.io/hugo-blog/posts/sample/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://mrsmsn.github.io/hugo-blog/posts/sample/</guid><description>HUGOのサンプル h1 h2 h3 h4 h5 h6 a b c d e f $ bash BOLD italic 44GG44KT44GT #include &amp;lt;stdio.h&amp;gt; int main() { printf(&amp;#34;Hello, World!\n&amp;#34;); return 0; }</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>技術とか趣味とか雑記</title>
+    <link>https://mrsmsn.github.io/hugo-blog/</link>
+    <description>Recent content on 技術とか趣味とか雑記</description>
+    <image>
+      <title>技術とか趣味とか雑記</title>
+      <url>https://mrsmsn.github.io/hugo-blog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://mrsmsn.github.io/hugo-blog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://mrsmsn.github.io/hugo-blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>このブログについて</title>
+      <link>https://mrsmsn.github.io/hugo-blog/posts/about/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrsmsn.github.io/hugo-blog/posts/about/</guid>
+      <description>このブログを書いている人 TODO 技術的な能力 TODO 趣味 TODO a b c d e f $ bash BOLD italic 44GG44KT44GT #include &amp;lt;stdio.h&amp;gt; int main() { printf(&amp;#34;Hello, World!\n&amp;#34;); return 0; }</description>
+    </item>
+    
+  </channel>
+</rss>
