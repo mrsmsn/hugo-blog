@@ -1,58 +1,15 @@
-![top](./readme_resource/top.png)
-HUGOを使ったブログを簡単に作成するためのテンプレートです
+# 個人的なブログ
 
-[MORE INFO (Zenn)](https://zenn.dev/kato_k/articles/66531db0c4024d)
+## 内容
+### 書くこと
+- 技術
+- ライフハック
+- 趣味
+  - スロット
+  - ゲーム
+### 書かないこと
+- ネガティブな話
+- 個人情報を含む内容
 
-
-## forkするだけでできること
-- GitHub Actionsによる自動デプロイ
-- GitHub Pagesに公開
-
-## セットアップ
-
-### HUGOの設定
-`config.toml`を編集してhugoの設定をします  
-`$ hugo serve`を実行してページのプレビューを確認できます  
-
-#### Baseurl
-```
-baseURL = "https://{Github ユーザー名}.github.io/{forkしたリポジトリ名}"
-```
-#### ブログのタイトル
-```
-title = "hugo-blog-template"
-```
-
-#### 自己紹介
-```
-[Author]
-    name = "Author"
-    bio = "ここに自己紹介を入れることができます"
-    avatar = "img/avatar.png"
-```
-アバターの画像は`static/img/avatar.png`に配置しています
-
-#### ページのテーマカラー
-```
-[Params.style.vars]
-  highlightColor = "#e22d30"
-```
-`#rrggbb`の形式で指定してください
-
-#### SNS等のユーザー名
-```
-[Params.widgets.social]
-  twitter = "uvrub"
-  github = "kato-k"
-```
-アカウントIDを指定するとサイドバーに表示されます
-
-### GitHub Pagesの設定
-`config.toml`の変更をリモートリポジトリに反映すると、GitHub Actionsによってページのビルドが走ります。  
-ビルド結果は`github-actions[bot]`によって`gh-pages`ブランチにコミットされます。  
-
-#### ページの公開
-リポジトリの`Settings`タブ→`Pages`を開いてください。  
-![publish](./readme_resource/gh-pages.png)
-画像の四角で囲った部分を`gh-pages`に変更し、`save`をクリックすると公開が始まります。  
-アクセスできるようになるまで10分程度間があります。
+## 以下の記事を参考にしました
+[HUGOとGitHub(Actions/Pages)で爆速ブログ作成](https://zenn.dev/kato_k/articles/66531db0c4024d)
