@@ -6,34 +6,26 @@ tags: ["自己紹介", "ポリシー"]
 menu: main
 ---
 
-# このブログを書いている人
-TODO
+## このブログを書いている人
+技術への興味あるけど、勉強が苦手なエンジニア
 
-## 技術的な能力
-TODO
+###  技術的な能力
+toCのWebアプリ開発経験が主です。
 
-## 趣味
-TODO
+サーバーサイドはGo/Javaでの開発経験があり、フロントエンドはTS+React/Vue.jsを少し。
+最近は、Flutterを勉強しながら個人でアプリ開発をしてます。
 
-- a
-  - b
-    - c
-    - d
-  - e
-- f
+### 趣味
+漫画・スロット・投資など。
 
-- `$ bash`
-- **BOLD**
-- *italic*
-- ~~44GG44KT44GT~~
+## このブログで書くこと
 
-```c
-#include <stdio.h>
+### 書くこと
+- 技術
+- ライフハック
+- 趣味に関すること
+- ポエム
+### 書かないこと
+- ネガティブな話
+- 個人情報を含む内容
 
-int main() {
-  printf("Hello, World!\n");
-  return 0;
-}
-```
-
-![alt](https://mrsmsn.github.io/hugo-blog/img/image.jpeg)
