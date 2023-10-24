@@ -9,6 +9,11 @@ https://mrsmsn.github.io/hugo-blog/
 hugo new posts/FooBar.md
 ```
 
+### 画像の追加方法
+
+`static/img`配下に置くこと。
+pathは`https://mrsmsn.github.io/hugo-blog/img/FooBar.jpg`みたいになる
+
 ## 内容
 ### 書くこと
 - 技術
