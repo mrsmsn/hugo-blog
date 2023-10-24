@@ -30,6 +30,7 @@ params:
   DateFormat: "2006/02/02"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
+  shareButtons: ["twitter","facebook"]
 
   ShowReadingTime: true
   ShowShareButtons: true
