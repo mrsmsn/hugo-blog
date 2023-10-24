@@ -3,6 +3,12 @@ https://mrsmsn.github.io/hugo-blog/
 
 上記のリンクに雑記を公開する
 
+## 記事の追加方法
+
+```
+hugo new posts/FooBar.md
+```
+
 ## 内容
 ### 書くこと
 - 技術
