@@ -36,4 +36,4 @@ int main() {
 }
 ```
 
-![alt](img/image.jpeg)
+![alt](https://mrsmsn.github.io/hugo-blog/img/image.jpeg)
