@@ -11,15 +11,21 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://mrsmsn.github.io/hugo-blog/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 14 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://mrsmsn.github.io/hugo-blog/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>開発</title>
+      <link>https://mrsmsn.github.io/hugo-blog/categories/%E9%96%8B%E7%99%BA/</link>
+      <pubDate>Wed, 14 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://mrsmsn.github.io/hugo-blog/categories/%E9%96%8B%E7%99%BA/</guid>
+      <description></description>
+    </item>
     <item>
       <title>その他</title>
       <link>https://mrsmsn.github.io/hugo-blog/categories/%E3%81%9D%E3%81%AE%E4%BB%96/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://mrsmsn.github.io/hugo-blog/categories/%E3%81%9D%E3%81%AE%E4%BB%96/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>
