@@ -26,8 +26,7 @@ params:
   keywords: [スロット, 収支報告]
   author: モッシュ
   images: ["<link or path of image for opengraph, twitter-cards>"]
-  #DateFormat: "January 2, 2006"
-  DateFormat: "2006/02/02"
+  DateFormat: "2006/01/02"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
   shareButtons: ["twitter","facebook"]
