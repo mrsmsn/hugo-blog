@@ -24,23 +24,23 @@ params:
   title: 記事タイトル
   # description: "記事の説明"
   keywords: [スロット, 収支報告]
-  author: モッシュ
+  # author: モッシュ
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "2006/01/02"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
-  shareButtons: ["twitter","facebook"]
+  # shareButtons: ["twitter","facebook"]
 
-  ShowReadingTime: true
-  ShowShareButtons: true
-  ShowPostNavLinks: true
-  ShowBreadCrumbs: true
+  ShowReadingTime: false
+  ShowShareButtons: false
+  ShowPostNavLinks: false
+  ShowBreadCrumbs: false
   ShowCodeCopyButtons: false
   ShowWordCount: true
   ShowRssButtonInSectionTermList: true
   UseHugoToc: true
   disableSpecial1stPost: false
-  disableScrollToTop: false
+  disableScrollToTop: true
   comments: false
   hidemeta: false
   hideSummary: false
@@ -58,8 +58,6 @@ params:
 
   label:
     text: "Home"
-    icon: /apple-touch-icon.png
-    iconHeight: 35
 
   # profile-mode
   profileMode:
@@ -81,11 +79,11 @@ params:
     Title: "技術とか趣味とか雑記"
     Content: よわよわエンジニアが気まぐれに記事を書くブログ
 
-  socialIcons:
-    - name: twitter
-      url: "https://twitter.com/mrsmsn43"
-    - name: github
-      url: "https://github.com/mrsmsn"
+  # socialIcons:
+  #   - name: twitter
+  #     url: "https://twitter.com/mrsmsn43"
+  #   - name: github
+  #     url: "https://github.com/mrsmsn"
 
 #  analytics:
 #    google:
@@ -100,10 +98,10 @@ params:
     hiddenInList: true # hide on list pages and home
     hiddenInSingle: true # hide on single page
 
-  editPost:
-    URL: "https://github.com/mrsmsn/hugo-blog/tree/main/content"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
+  # editPost:
+  #   URL: "https://github.com/mrsmsn/hugo-blog/tree/main/content"
+  #   Text: "Suggest Changes" # edit text
+  #   appendFilePath: true # to append file path to Edit link
 
   # for search
   # https://fusejs.io/api/options.html
@@ -118,18 +116,18 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
-    - identifier: categories
-      name: Categories
-      url: /categories/
-      weight: 10
+    # - identifier: categories
+    #   name: Categories
+    #   url: /categories/
+    #   weight: 10
     - identifier: tags
       name: Tags
       url: /tags/
       weight: 20
-    - identifier: twitter
-      name: Twitter(X)
-      url: https://twitter.com/mrsmsn43
-      weight: 30
+    # - identifier: twitter
+    #   name: Twitter(X)
+    #   url: https://twitter.com/mrsmsn43
+    #   weight: 30
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
