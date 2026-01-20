@@ -11,8 +11,15 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 14 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Jan 2026 23:11:03 +0900</lastBuildDate>
     <atom:link href="https://mrsmsn.github.io/hugo-blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>キーボードの利用状況分析（ヒートマップ・ショートカットの利用率等）</title>
+      <link>https://mrsmsn.github.io/hugo-blog/posts/2026-01-20/</link>
+      <pubDate>Tue, 20 Jan 2026 23:11:03 +0900</pubDate>
+      <guid>https://mrsmsn.github.io/hugo-blog/posts/2026-01-20/</guid>
+      <description>背景・動機 一言で言うと、愛用している自作キーボードの Keyball39 / cool642tb のキーマップを変更したくなった。 キーマップは最初に設定してほとんど変えてこなかった</description>
+    </item>
     <item>
       <title>開発でやりたいこと2024</title>
       <link>https://mrsmsn.github.io/hugo-blog/posts/2024-02-14/</link>
